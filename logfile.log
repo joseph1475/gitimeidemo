@@ -1,0 +1,131 @@
+2020-11-03 19:08:10,073 :INFO : test_imeisearch :user name is minu.j@sonimtech.com
+2020-11-03 19:09:45,729 :INFO : test_imeisearch :user name is minu.j@sonimtech.com
+2020-11-04 15:24:44,929 :INFO : test_imeisearch :user name is minu.j@sonimtech.com
+2020-11-04 15:31:34,681 :INFO : test_imeisearch :user name is minu.j@sonimtech.com
+2020-11-04 15:34:29,235 :INFO : test_imeisearch :user name is minu.j@sonimtech.com
+2020-11-04 15:36:31,790 :INFO : test_imeisearch :user name is minu.j@sonimtech.com
+2020-11-04 16:18:16,146 :INFO : test_imeisearch :user name is minu.j@sonimtech.com
+2020-11-04 16:19:53,225 :INFO : test_imeisearch :user name is minu.j@sonimtech.com
+2020-11-04 16:20:33,399 :INFO : test_imeisearch :user name is minu.j@sonimtech.com
+2020-11-10 11:07:44,285 :INFO : test_imeisearch :1
+2020-11-10 11:09:56,211 :INFO : test_imeisearch :14
+2020-11-10 11:14:00,215 :INFO : test_imeisearch :6
+2020-11-10 11:17:49,052 :INFO : test_imeisearch :9
+2020-11-10 12:25:33,960 :INFO : test_imeisearch :2
+2020-11-10 12:36:50,692 :INFO : test_imeisearch :18
+2020-11-10 12:40:24,059 :INFO : test_imeisearch :8
+2020-11-10 12:43:09,329 :INFO : test_imeisearch :4
+2020-11-12 14:45:13,162 :INFO : test_imeisearch :20
+2020-11-12 14:53:51,868 :INFO : test_imeisearch :7
+2020-11-12 15:42:37,411 :INFO : test_imeisearch :20
+2020-11-12 15:42:52,349 :INFO : test_imeisearch :Text received is MY ACCOUNT
+2020-11-12 15:43:32,424 :INFO : test_imeisearch :http://intranet.sonimtech.com/inventory-search
+2020-11-12 15:43:32,735 :INFO : test_imeisearch :Fetching IMEI number from excel
+2020-11-12 15:43:40,830 :INFO : test_imeisearch :015141000027891
+2020-11-12 15:43:41,253 :INFO : test_imeisearch :Writing employee name to excel
+2020-11-12 15:43:41,253 :INFO : test_imeisearch :Writing model name to excel
+2020-11-12 15:43:41,253 :INFO : test_imeisearch :Writing status to excel
+2020-11-12 15:43:41,693 :INFO : test_imeisearch :Fetching IMEI number from excel
+2020-11-12 15:43:43,926 :INFO : test_imeisearch :015325003549817
+2020-11-12 15:43:44,129 :INFO : test_imeisearch :Writing employee name to excel
+2020-11-12 15:43:44,129 :INFO : test_imeisearch :Writing model name to excel
+2020-11-12 15:43:44,129 :INFO : test_imeisearch :Writing status to excel
+2020-11-12 15:43:44,505 :INFO : test_imeisearch :Fetching IMEI number from excel
+2020-11-12 15:43:51,152 :INFO : test_imeisearch :358927100002684
+2020-11-12 15:43:51,337 :INFO : test_imeisearch :Writing employee name to excel
+2020-11-12 15:43:51,337 :INFO : test_imeisearch :Writing model name to excel
+2020-11-12 15:43:51,337 :INFO : test_imeisearch :Writing status to excel
+2020-11-12 15:43:51,717 :INFO : test_imeisearch :Fetching IMEI number from excel
+2020-11-12 15:43:59,838 :INFO : test_imeisearch :358898100000012
+2020-11-12 15:43:59,956 :INFO : test_imeisearch :Writing employee name to excel
+2020-11-12 15:43:59,957 :INFO : test_imeisearch :Writing model name to excel
+2020-11-12 15:43:59,957 :INFO : test_imeisearch :Writing status to excel
+2020-11-12 15:44:00,218 :INFO : test_imeisearch :Fetching IMEI number from excel
+2020-11-12 15:44:04,635 :INFO : test_imeisearch :001080002474626/001080002474634
+2020-11-12 15:44:04,809 :INFO : test_imeisearch :Writing employee name to excel
+2020-11-12 15:44:04,809 :INFO : test_imeisearch :Writing model name to excel
+2020-11-12 15:44:04,809 :INFO : test_imeisearch :Writing status to excel
+2020-11-12 15:45:12,559 :INFO : test_imeisearch :13
+2020-11-12 15:45:40,277 :INFO : test_imeisearch :Text received is MY ACCOUNT
+2020-11-12 15:46:03,379 :INFO : test_imeisearch :http://intranet.sonimtech.com/inventory-search
+2020-11-12 15:46:03,533 :INFO : test_imeisearch :Fetching IMEI number from excel
+2020-11-12 15:46:07,078 :INFO : test_imeisearch :015141000027891
+2020-11-12 15:46:07,303 :INFO : test_imeisearch :Writing employee name to excel
+2020-11-12 15:46:07,303 :INFO : test_imeisearch :Writing model name to excel
+2020-11-12 15:46:07,303 :INFO : test_imeisearch :Writing status to excel
+2020-11-12 15:46:07,613 :INFO : test_imeisearch :Fetching IMEI number from excel
+2020-11-12 15:46:09,503 :INFO : test_imeisearch :015325003549817
+2020-11-12 15:46:09,781 :INFO : test_imeisearch :Writing employee name to excel
+2020-11-12 15:46:09,781 :INFO : test_imeisearch :Writing model name to excel
+2020-11-12 15:46:09,783 :INFO : test_imeisearch :Writing status to excel
+2020-11-12 15:46:10,081 :INFO : test_imeisearch :Fetching IMEI number from excel
+2020-11-12 15:46:12,152 :INFO : test_imeisearch :358927100002684
+2020-11-12 15:46:12,353 :INFO : test_imeisearch :Writing employee name to excel
+2020-11-12 15:46:12,353 :INFO : test_imeisearch :Writing model name to excel
+2020-11-12 15:46:12,353 :INFO : test_imeisearch :Writing status to excel
+2020-11-12 15:46:14,045 :INFO : test_imeisearch :Fetching IMEI number from excel
+2020-11-12 15:46:16,247 :INFO : test_imeisearch :358898100000012
+2020-11-12 15:46:16,366 :INFO : test_imeisearch :Writing employee name to excel
+2020-11-12 15:46:16,366 :INFO : test_imeisearch :Writing model name to excel
+2020-11-12 15:46:16,367 :INFO : test_imeisearch :Writing status to excel
+2020-11-12 15:46:16,634 :INFO : test_imeisearch :Fetching IMEI number from excel
+2020-11-12 15:46:19,256 :INFO : test_imeisearch :001080002474626/001080002474634
+2020-11-12 15:46:19,441 :INFO : test_imeisearch :Writing employee name to excel
+2020-11-12 15:46:19,441 :INFO : test_imeisearch :Writing model name to excel
+2020-11-12 15:46:19,441 :INFO : test_imeisearch :Writing status to excel
+2020-11-12 15:52:40,590 :INFO : test_imeisearch :6
+2020-11-12 15:53:58,480 :INFO : test_imeisearch :Text received is MY ACCOUNT
+2020-11-12 15:54:24,318 :INFO : test_imeisearch :http://intranet.sonimtech.com/inventory-search
+2020-11-12 15:54:24,544 :INFO : test_imeisearch :Fetching IMEI number from excel
+2020-11-12 15:54:30,833 :INFO : test_imeisearch :015141000027891
+2020-11-12 15:54:31,089 :INFO : test_imeisearch :Writing employee name to excel
+2020-11-12 15:54:31,090 :INFO : test_imeisearch :Writing model name to excel
+2020-11-12 15:54:31,090 :INFO : test_imeisearch :Writing status to excel
+2020-11-12 15:54:31,416 :INFO : test_imeisearch :Fetching IMEI number from excel
+2020-11-12 15:54:33,429 :INFO : test_imeisearch :015325003549817
+2020-11-12 15:54:33,660 :INFO : test_imeisearch :Writing employee name to excel
+2020-11-12 15:54:33,660 :INFO : test_imeisearch :Writing model name to excel
+2020-11-12 15:54:33,660 :INFO : test_imeisearch :Writing status to excel
+2020-11-12 15:54:33,993 :INFO : test_imeisearch :Fetching IMEI number from excel
+2020-11-12 15:54:35,767 :INFO : test_imeisearch :358927100002684
+2020-11-12 15:54:35,873 :INFO : test_imeisearch :Writing employee name to excel
+2020-11-12 15:54:35,873 :INFO : test_imeisearch :Writing model name to excel
+2020-11-12 15:54:35,873 :INFO : test_imeisearch :Writing status to excel
+2020-11-12 15:54:36,070 :INFO : test_imeisearch :Fetching IMEI number from excel
+2020-11-12 15:55:40,340 :INFO : test_imeisearch :358898100000012
+2020-11-12 15:55:40,576 :INFO : test_imeisearch :Writing employee name to excel
+2020-11-12 15:55:40,576 :INFO : test_imeisearch :Writing model name to excel
+2020-11-12 15:55:40,577 :INFO : test_imeisearch :Writing status to excel
+2020-11-12 15:55:40,844 :INFO : test_imeisearch :Fetching IMEI number from excel
+2020-11-12 15:55:43,377 :INFO : test_imeisearch :001080002474626/001080002474634
+2020-11-12 15:55:43,485 :INFO : test_imeisearch :Writing employee name to excel
+2020-11-12 15:55:43,485 :INFO : test_imeisearch :Writing model name to excel
+2020-11-12 15:55:43,485 :INFO : test_imeisearch :Writing status to excel
+2020-11-12 16:04:34,082 :INFO : test_imeisearch :4
+2020-11-12 16:05:35,258 :INFO : test_imeisearch :Text received is MY ACCOUNT
+2020-11-12 16:07:53,013 :INFO : test_imeisearch :http://intranet.sonimtech.com/inventory-search
+2020-11-12 16:07:53,162 :INFO : test_imeisearch :Fetching IMEI number from excel
+2020-11-12 16:07:53,344 :INFO : test_imeisearch :35372090004177
+2020-11-12 16:07:53,565 :INFO : test_imeisearch :Writing employee name to excel
+2020-11-12 16:07:53,565 :INFO : test_imeisearch :Writing model name to excel
+2020-11-12 16:07:53,565 :INFO : test_imeisearch :Writing status to excel
+2020-11-12 16:07:53,743 :INFO : test_imeisearch :Fetching IMEI number from excel
+2020-11-12 16:07:53,841 :INFO : test_imeisearch :35372090004177
+2020-11-12 16:07:53,950 :INFO : test_imeisearch :Writing employee name to excel
+2020-11-12 16:07:53,950 :INFO : test_imeisearch :Writing model name to excel
+2020-11-12 16:07:53,950 :INFO : test_imeisearch :Writing status to excel
+2020-11-12 16:07:54,215 :INFO : test_imeisearch :Fetching IMEI number from excel
+2020-11-12 16:07:54,312 :INFO : test_imeisearch :35372090004177
+2020-11-12 16:07:54,406 :INFO : test_imeisearch :Writing employee name to excel
+2020-11-12 16:07:54,406 :INFO : test_imeisearch :Writing model name to excel
+2020-11-12 16:07:54,406 :INFO : test_imeisearch :Writing status to excel
+2020-11-12 16:07:54,543 :INFO : test_imeisearch :Fetching IMEI number from excel
+2020-11-12 16:07:54,689 :INFO : test_imeisearch :35372090004177
+2020-11-12 16:07:54,786 :INFO : test_imeisearch :Writing employee name to excel
+2020-11-12 16:07:54,786 :INFO : test_imeisearch :Writing model name to excel
+2020-11-12 16:07:54,787 :INFO : test_imeisearch :Writing status to excel
+2020-11-12 16:07:54,937 :INFO : test_imeisearch :Fetching IMEI number from excel
+2020-11-12 16:07:55,020 :INFO : test_imeisearch :35372090004177
+2020-11-12 16:07:55,131 :INFO : test_imeisearch :Writing employee name to excel
+2020-11-12 16:07:55,131 :INFO : test_imeisearch :Writing model name to excel
+2020-11-12 16:07:55,131 :INFO : test_imeisearch :Writing status to excel

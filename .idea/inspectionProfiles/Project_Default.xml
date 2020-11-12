@@ -1,0 +1,14 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyUnresolvedReferencesInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredIdentifiers">
+        <list>
+          <option value="pythonSelenium.demoBrowser.webdriver" />
+          <option value="pythonSelenium.e2etest.expected_condition" />
+          <option value="Tests.conftest.com" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
